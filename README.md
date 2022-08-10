@@ -1,3 +1,3 @@
 # react-expense-tracker
 
-Following https://youtu.be/XuFDcZABiDQ tutorial
+Following [this](https://youtu.be/XuFDcZABiDQ) tutorial
